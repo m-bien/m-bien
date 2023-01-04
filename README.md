@@ -37,7 +37,7 @@
 
 <a href="https://www.figma.com/" target="_blank"> <img align="left" alt="FIGMA" src="https://github.com/m-bien/m-bien/blob/0afe3c893b8321aedc5e2d67990ab350bea793b6/Assets/Icons/Figma.png" height="32px"/></a>
 
-<a href="https://git-scm.com/" target="_blank"> <img align="left" alt="GIT" src="https://github.com/m-bien/m-bien/blob/0afe3c893b8321aedc5e2d67990ab350bea793b6/Assets/Icons/Git.png" height="32px"/></a>
+<a href="https://www.r-project.org/about.html" target="_blank"> <img align="left" alt="R" src="https://github.com/m-bien/m-bien/blob/753aa2d9744d949925f577fcd353d8126cc5457f/Assets/Icons/R.png" height="32px"/></a>
 
 
 

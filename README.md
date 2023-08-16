@@ -38,9 +38,3 @@
 <a href="https://www.w3schools.com/java/default.asp" target="_blank"> <img align="left" alt="JAVA" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" height="32px"/></a>
 
 <a href="https://www.figma.com/" target="_blank"> <img align="left" alt="FIGMA" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" height="32px"/></a>
-
-<a href="https://www.r-project.org/about.html" target="_blank"> <img align="left" alt="R" src="https://seeklogo.com/images/R/r-project-logo-A101B11270-seeklogo.com.png" height="32px"/></a>
-
-
-
-

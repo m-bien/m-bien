@@ -9,35 +9,37 @@
 <img align="right" alt="GIF" src="https://github.com/m-bien/m-bien/blob/0afe3c893b8321aedc5e2d67990ab350bea793b6/Assets/Person/Stack-Resized.gif" width="360px"/>
 
 
-### Programming Rookie
+### About Me
 - 🏛️ Computer science student at UNCG
-- 📝 Checkout my [resume](https://drive.google.com/open?id=1FNWQWJVGaGK-t79jxGoceVoSCaO7n5yj&authuser=1&usp=drive_link)
+- 📝 Checkout my [resume](https://drive.google.com/file/d/1IW8i0OR1zkyuVJ-3lhV_22ECgryywHJx/view?usp=drive_link)
 - 🌱 Currently learning JavaScript and React Native
 - 🔨 Currently working on **Michael-Good-Website**
 - 🎨 Using [this svg](https://storyset.com/illustration/computer-login/amico), Illustrator, and Figma I made 👉
-- 😀 I like [music](https://musescore.com/user/23472121) and making [stickers](https://www.redbubble.com/people/mrgoods/shop) in my free time 
+- 😀 I like [music](https://musescore.com/user/23472121) and indie games in my free time 
 - 😺 Fun fact [my cats](https://drive.google.com/file/d/1m1L4ZqLPA9Bwb1bZ5VT6UQkBXJLZtvdw/view?usp=sharing) are lame <br>
  
 ##
 
 ### Languages & Tools
-<a href="https://www.adobe.com/products/photoshop.html" target="_blank"> <img align="left" alt="PHOTOSHOP" src="https://github.com/m-bien/m-bien/blob/0afe3c893b8321aedc5e2d67990ab350bea793b6/Assets/Icons/Photoshop.png" height="32px"/></a> 
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank"> <img align="left" alt="PHOTOSHOP" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png" height="32px"/></a> 
 
-<a href="https://www.adobe.com/products/illustrator.html" target="_blank"> <img align="left" alt="ILLUSTRATOR" src="https://github.com/m-bien/m-bien/blob/0afe3c893b8321aedc5e2d67990ab350bea793b6/Assets/Icons/Illustrator.png" height="32px"/></a>
+<a href="https://www.adobe.com/products/illustrator.html" target="_blank"> <img align="left" alt="INDESIGN" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Adobe_InDesign_CC_icon.svg/2101px-Adobe_InDesign_CC_icon.svg.png" height="32px"/></a>
 
-<a href="https://www.w3schools.com/html/html_intro.asp" target="_blank"> <img align="left" alt="HTML" src="https://github.com/m-bien/m-bien/blob/0afe3c893b8321aedc5e2d67990ab350bea793b6/Assets/Icons/HTML.png" height="32px"/></a>
+<a href="https://www.adobe.com/products/illustrator.html" target="_blank"> <img align="left" alt="ILLUSTRATOR" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/2101px-Adobe_Illustrator_CC_icon.svg.png" height="32px"/></a>
 
-<a href="https://www.w3schools.com/css/css_intro.asp" target="_blank"> <img align="left" alt="CSS" src="https://github.com/m-bien/m-bien/blob/0afe3c893b8321aedc5e2d67990ab350bea793b6/Assets/Icons/CSS.png" height="32px"/></a>
+<a href="https://www.w3schools.com/html/html_intro.asp" target="_blank"> <img align="left" alt="HTML" src="https://cdn-icons-png.flaticon.com/512/732/732212.png" height="32px"/></a>
 
-<a href="https://www.javascript.com/" target="_blank"> <img align="left" alt="JAVASCRIPT" src="https://github.com/m-bien/m-bien/blob/0afe3c893b8321aedc5e2d67990ab350bea793b6/Assets/Icons/JavaScript.png" height="32px"/></a>
+<a href="https://www.w3schools.com/css/css_intro.asp" target="_blank"> <img align="left" alt="CSS" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" height="32px"/></a>
 
-<a href="https://www.python.org/" target="_blank"> <img align="left" alt="PYTHON" src="https://github.com/m-bien/m-bien/blob/0afe3c893b8321aedc5e2d67990ab350bea793b6/Assets/Icons/Python.png" height="32px"/></a>
+<a href="https://www.javascript.com/" target="_blank"> <img align="left" alt="JAVASCRIPT" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" height="32px"/></a>
 
-<a href="https://www.w3schools.com/java/default.asp" target="_blank"> <img align="left" alt="JAVA" src="https://github.com/m-bien/m-bien/blob/0afe3c893b8321aedc5e2d67990ab350bea793b6/Assets/Icons/Java.png" height="32px"/></a>
+<a href="https://www.python.org/" target="_blank"> <img align="left" alt="PYTHON" src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-png-transparent.png" height="32px"/></a>
 
-<a href="https://www.figma.com/" target="_blank"> <img align="left" alt="FIGMA" src="https://github.com/m-bien/m-bien/blob/0afe3c893b8321aedc5e2d67990ab350bea793b6/Assets/Icons/Figma.png" height="32px"/></a>
+<a href="https://www.w3schools.com/java/default.asp" target="_blank"> <img align="left" alt="JAVA" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" height="32px"/></a>
 
-<a href="https://www.r-project.org/about.html" target="_blank"> <img align="left" alt="R" src="https://github.com/m-bien/m-bien/blob/753aa2d9744d949925f577fcd353d8126cc5457f/Assets/Icons/R.png" height="32px"/></a>
+<a href="https://www.figma.com/" target="_blank"> <img align="left" alt="FIGMA" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" height="32px"/></a>
+
+<a href="https://www.r-project.org/about.html" target="_blank"> <img align="left" alt="R" src="https://seeklogo.com/images/R/r-project-logo-A101B11270-seeklogo.com.png" height="32px"/></a>
 
 
 

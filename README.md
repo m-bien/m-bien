@@ -11,11 +11,11 @@
 
 ### About Me
 - 🏛️ Computer science student at UNCG
-- 📝 Checkout my [resume](https://drive.google.com/file/d/1IW8i0OR1zkyuVJ-3lhV_22ECgryywHJx/view?usp=drive_link)
-- 🌱 Currently learning JavaScript and React Native
+- 📝 Checkout my [portfolio](https://mgood27.wordpress.com/)
+- 🌱 Currently learning JavaScript
 - 🔨 Currently working on **Michael-Good-Website**
 - 🎨 Using [this svg](https://storyset.com/illustration/computer-login/amico), Illustrator, and Figma I made 👉
-- 😀 I like [music](https://musescore.com/user/23472121) and indie games in my free time 
+- 😀 I like [music](https://musescore.com/user/23472121) and indie games 
 - 😺 Fun fact [my cats](https://drive.google.com/file/d/1m1L4ZqLPA9Bwb1bZ5VT6UQkBXJLZtvdw/view?usp=sharing) are lame <br>
  
 ##
@@ -23,7 +23,7 @@
 ### Languages & Tools
 <a href="https://www.adobe.com/products/photoshop.html" target="_blank"> <img align="left" alt="PHOTOSHOP" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png" height="32px"/></a> 
 
-<a href="https://www.adobe.com/products/illustrator.html" target="_blank"> <img align="left" alt="INDESIGN" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Adobe_InDesign_CC_icon.svg/2101px-Adobe_InDesign_CC_icon.svg.png" height="32px"/></a>
+<a href="https://www.adobe.com/products/indesign.html" target="_blank"> <img align="left" alt="INDESIGN" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Adobe_InDesign_CC_icon.svg/2101px-Adobe_InDesign_CC_icon.svg.png" height="32px"/></a>
 
 <a href="https://www.adobe.com/products/illustrator.html" target="_blank"> <img align="left" alt="ILLUSTRATOR" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/2101px-Adobe_Illustrator_CC_icon.svg.png" height="32px"/></a>
 

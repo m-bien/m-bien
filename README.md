@@ -13,7 +13,6 @@
 - 🏛️ Computer science student at UNCG
 - 📝 Checkout my [portfolio](https://mgood27.wordpress.com/)
 - 🌱 Currently learning JavaScript
-- 🔨 Currently working on **Michael-Good-Website**
 - 🎨 Using [this svg](https://storyset.com/illustration/computer-login/amico), Illustrator, and Figma I made 👉
 - 😀 I like [music](https://musescore.com/user/23472121) and indie games 
 - 😺 Fun fact [my cats](https://drive.google.com/file/d/1m1L4ZqLPA9Bwb1bZ5VT6UQkBXJLZtvdw/view?usp=sharing) are lame <br>
